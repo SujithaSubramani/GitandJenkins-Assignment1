@@ -5,6 +5,7 @@
             padding: 0;
             margin: 0;
         }
+ #including this line wrt branch2 as part merge conflict
         @font-face{
             font-family: "Segoe UI";
             src: url('../fonts/segoeuil.ttf');
